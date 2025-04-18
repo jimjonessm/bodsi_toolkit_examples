@@ -1,4 +1,4 @@
-# BODSI_TOOLKIT
+# BODSI_TOOLKIT Examples
 
 The **Bi-Objective Dynamic Systems Identification (BODSI_TOOLKIT)** is a Python toolkit designed to identify dynamic systems based on Polynomial NARX models using a bi-objective optimization approach. It balances two core objectives:
 
@@ -36,17 +36,6 @@ conda create -n bodsi-env python=3.8
 conda activate bodsi-env
 pip install bodsi-toolkit
 ```
-
----
-
-### 🔹 Option 3 – Manual installation (from source)
-
-```bash
-git clone https://github.com/your-org/bodsi-toolkit.git
-cd bodsi-toolkit
-pip install .
-```
-
 ---
 
 ## 🚀 Features
