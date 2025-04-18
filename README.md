@@ -80,8 +80,6 @@ help(model.getInfo)
 
 ## 📚 Reference
 
-<a name="reference"></a>
-
 Barroso, M.F.S., Takahashi, R.H.C., & Aguirre, L.A. (2007).  
 *Multi-objective parameter estimation via minimal correlation criterion*.  
 Journal of Process Control, 17(4), 321–332.  
@@ -101,11 +99,11 @@ Journal of Process Control, 17(4), 321–332.
 
 ## 📬 Contact & Contributions
 
-Feel free to open issues or pull requests!  
-GitHub Repo: [https://github.com/your-org/bodsi-toolkit](https://github.com/your-org/bodsi-toolkit)
+For questions or support, please contact:
+📧 **barrosos@ufsj.edu.br**
 
 ---
 
 ## 📄 License
 
-MIT License (or insert your license here)
+BODSI-TOOLKIT is licensed under a proprietary license. For commercial use or permissions, contact: **barrosos@ufsj.edu.br**
